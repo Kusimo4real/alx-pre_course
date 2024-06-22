@@ -1,1 +1,1 @@
-my second readme file
+This is is my first directory
